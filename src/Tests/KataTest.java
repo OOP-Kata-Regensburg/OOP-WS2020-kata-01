@@ -57,7 +57,7 @@ public class KataTest {
     @Test
     public void kataStringReversed()
     {
-        String str = "Fehler bei Aufgabe 2: Der String lautet umgekehrt: %s der Algorithmus in kataStringReversed hat stattdessen %s zurückgegeben!";
+        String str = "Fehler bei Aufgabe 3: Der String lautet umgekehrt: %s der Algorithmus in kataStringReversed hat stattdessen %s zurückgegeben!";
 
         String testValue = Kata.kataStringReversed(testString);
 
